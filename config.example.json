@@ -1,0 +1,9 @@
+{
+  "api_key": "VOTRE_CLE_API_ANTHROPIC_ICI",
+  "vault_path": "/chemin/vers/votre/vault/obsidian",
+  
+  "_comments": {
+    "api_key": "Obtenez votre clé sur https://console.anthropic.com",
+    "vault_path": "Chemin complet vers votre dossier Obsidian, ex: C:/Users/VotreNom/Documents/ObsidianVault ou /Users/VotreNom/Documents/ObsidianVault"
+  }
+}
